@@ -1,4 +1,5 @@
 class Cat
   attr_accessor :name
-  def 
+  def name=(name)
+    
 end
